@@ -6,7 +6,7 @@ Tutorial on SmartNICs for International Supercomputing Conference (ISC) 2025
 
 [Event website and Program](https://isc-hpc.com/program/schedule/)
 
-![BlueField 3 SmartNIC](https://github.com/gt-crnch-rg/smartnic-tutorial-isc25/blob/2b33a3f47e94bf85083d54571c9a110bd97f93bc/fig/smartnic_bf3.jpg)
+![BlueField 3 SmartNIC](https://github.com/gt-crnch-rg/smartnic-tutorial-isc25/blob/2c305cbb0ab18d6b76729516c3f65a85b031b7eb/fig/smartnic_bf3.jpg)
 
 ## Mentimeter Audience Survey
 
