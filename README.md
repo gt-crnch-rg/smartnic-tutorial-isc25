@@ -60,8 +60,8 @@ This tutorial offers an in-depth exploration of the state-of-the-art for SmartNI
 
 Please see the examples under the `/code` folder. The tutorial slides will have additional details on running and interacting with each example.
 
-See [this Google Doc](https://docs.google.com/document/d/1eRluI2IZ4iIY9jjAL53shEKqH0AqwEvPlwRCCJJ9Sec/edit?usp=sharing) for instructions on using GitHub authentication to access the testbed and start working with the examples!
+Due to technical issues, we may have to provide users with accounts after the tutorial finishes. 
 
 ## Slides
 
-Slides will be posted under the slides folder the day of the event. 
+Slides will be posted under the slides folder the day of the event after the tutorial is completed. 
