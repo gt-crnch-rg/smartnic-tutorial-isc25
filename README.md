@@ -49,7 +49,7 @@ This tutorial offers an in-depth exploration of the state-of-the-art for SmartNI
 | 14:00 - 14:10  | Introduction and Attendee Survey              | Jeff          |
 | 14:10 - 14:40  | SmartNIC introduction and overview            | Rich G        |
 | 14:40 - 14:50  | Programming approaches for HPC with SmartNICs | Jeff          |
-| 14:50 - 15:15  | SmartNIC Research – State of the Art          | Oscar         |
+| 14:50 - 15:15  | SmartNIC Research – State of the Art          | Jeff          |
 | 15:15 - 16:00  | DOCA MPI Implementations; Security Topics     | Rich G        |
 | 16:00 - 16:30  | **Break**                                     |               |
 | 16:30 - 17:10  | OpenMP offload to the SmartNIC; ODOS Demos    | Antonio       |
