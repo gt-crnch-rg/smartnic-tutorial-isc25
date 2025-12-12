@@ -10,7 +10,7 @@ Tutorial on SmartNICs for International Supercomputing Conference (ISC) 2025
 
 ## Mentimeter Audience Survey
 
-Please take our survey using [this Mentimeter link]().
+Please take our survey using this Mentimeter link (CLOSED AFTER EVENT).
 
 ## Presenters
 
@@ -60,8 +60,6 @@ This tutorial offers an in-depth exploration of the state-of-the-art for SmartNI
 
 Please see the examples under the `/code` folder. The tutorial slides will have additional details on running and interacting with each example.
 
-Due to technical issues, we may have to provide users with accounts after the tutorial finishes. 
-
 ## Slides
 
-Slides will be posted under the slides folder the day of the event after the tutorial is completed. 
+Slides can be found under the `/slides` folder. 
